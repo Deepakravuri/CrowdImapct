@@ -82,6 +82,7 @@ This project is **open-source** and licensed under the MIT License.
 ---
 
 ### Screenshots
-
+### Landing Page 1
 ![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0411590d621a2348304824576d230ee951260ed0/Output_Images/Landing%20Page%201.png)
-
+### Landing Page 2
+![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/304a48051de8f58512e42d8730dd741ddf36dc25/Output_Images/Landing%20Page%202.png)
