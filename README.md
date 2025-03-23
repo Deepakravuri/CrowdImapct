@@ -106,10 +106,6 @@ This project is **open-source** and licensed under the MIT License.
 ![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0a2c35922aed106e58e7fc2292f80be5f9f78c7c/Output_Images/Volunteer%20dashboard%201.png)
 ### Volunteer Dashboard 2
 ![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0a2c35922aed106e58e7fc2292f80be5f9f78c7c/Output_Images/Volunteer%20dashboard%202.png)
-### Volunteer Dashboard 1
-![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0a2c35922aed106e58e7fc2292f80be5f9f78c7c/Output_Images/Volunteer%20dashboard%201.png)
-### Volunteer Dashboard 2
-![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0a2c35922aed106e58e7fc2292f80be5f9f78c7c/Output_Images/Volunteer%20dashboard%202.png)
 ### Volunteer Dashboard 3
 ![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0a2c35922aed106e58e7fc2292f80be5f9f78c7c/Output_Images/Volunteer%20dashboard%203.png)
 ### Volunteer Dashboard 4
