@@ -20,6 +20,8 @@ Welcome to the **Crowdsourced Social Good Platform**, a space where **volunteers
 - **👥 Volunteer Management**: Assign tasks and coordinate efforts seamlessly.
 - **📦 Resource Allocation**: Ensure efficient use of available resources.
 - **📑 Progress Reports**: Generate reports on milestones and project status.
+- **📂 Document Repository**: Store and manage crucial documentation.
+- **📈 Analytics Dashboard**: Gain insights and monitor overall performance.
 
 ### 🏛️ 3. Government Bodies
 #### 🏢 Government Dashboard:
@@ -35,6 +37,7 @@ Welcome to the **Crowdsourced Social Good Platform**, a space where **volunteers
 - **🗄️ Database**: MongoDB
 - **🔐 Authentication**: JWT-based authentication
 - **🚀 Hosting**: TBD
+
 
 ## 🛠 Installation
 1. **Clone the repository:**
@@ -61,7 +64,9 @@ Welcome to the **Crowdsourced Social Good Platform**, a space where **volunteers
 This project is licensed under the **MIT License**.
 
 ## 📩 Contact
-📧 Have any questions? Reach out via email at **lakshmideepak091@yourwebsite.com** or create an issue in the **GitHub repository**.
+📧 Have any questions? Reach out via email at **support@yourwebsite.com** or create an issue in the **GitHub repository**.
 
 💡 **Together, let's build a better world!** 🌱
+
+
 
