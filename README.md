@@ -16,8 +16,6 @@ This is a **MERN stack** web application designed to enable crowdsourcing for so
 - **Frontend:** React (Vite) + Material UI
 - **Backend:** Node.js + Express
 - **Database:** MongoDB (Mongoose ORM)
-- **Authentication:** JWT (JSON Web Token)
-- **Deployment:** TBD
 
 ## Installation & Setup
 
