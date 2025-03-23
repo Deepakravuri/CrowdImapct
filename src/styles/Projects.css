@@ -1,0 +1,133 @@
+.projects {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.projects-header {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.projects-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.projects-filters {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.search-input,
+.filter-select {
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--gray-light);
+  border-radius: 0.375rem;
+  font-size: 1rem;
+  min-width: 200px;
+}
+
+.search-input {
+  flex: 1;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.project-card {
+  background-color: var(--white);
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-md);
+}
+
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.project-header h3 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-color);
+}
+
+.project-status {
+  padding: 0.25rem 0.75rem;
+  border-radius: 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-active {
+  background-color: #dcfce7;
+  color: #15803d;
+}
+
+.status-upcoming {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+.project-org {
+  color: var(--gray-medium);
+  font-size: 0.875rem;
+}
+
+.project-description {
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+.project-details {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.875rem;
+}
+
+.project-category,
+.project-location {
+  display: inline-flex;
+  align-items: center;
+  color: var(--gray-medium);
+}
+
+.project-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+}
+
+.project-volunteers {
+  font-size: 0.875rem;
+  color: var(--gray-medium);
+}
+
+@media (max-width: 768px) {
+  .projects-filters {
+    flex-direction: column;
+  }
+
+  .search-input,
+  .filter-select {
+    width: 100%;
+  }
+} 
