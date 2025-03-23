@@ -83,5 +83,5 @@ This project is **open-source** and licensed under the MIT License.
 
 ### Screenshots
 
-![image alt]('https://github.com/Deepakravuri/CrowdImapct/blob/0411590d621a2348304824576d230ee951260ed0/Output_Images/Landing%20Page%201.png')
+![image alt](https://github.com/Deepakravuri/CrowdImapct/blob/0411590d621a2348304824576d230ee951260ed0/Output_Images/Landing%20Page%201.png)
 
