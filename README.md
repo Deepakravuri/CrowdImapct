@@ -1,12 +1,87 @@
-# React + Vite
+# Crowdsourced Social Good Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **MERN stack** web application designed to enable crowdsourcing for social good. Users can register, create projects, collaborate with organizations, and contribute to meaningful causes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User Authentication** (Login & Registration)
+- **Landing Page** with an overview of the platform
+- **Project Management** (Create, View, and Manage social projects)
+- **Organization Collaboration** (Partner with NGOs and other groups)
+- **Contact & About Pages** to provide more information
+- **Fully Responsive UI** using Material UI (MUI)
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React (Vite) + Material UI
+- **Backend:** Node.js + Express
+- **Database:** MongoDB (Mongoose ORM)
+- **Authentication:** JWT (JSON Web Token)
+- **Deployment:** TBD
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+   ```
+
+2. Install dependencies for the frontend:
+   ```sh
+   cd client
+   npm install
+   ```
+
+3. Install dependencies for the backend:
+   ```sh
+   cd ../server
+   npm install
+   ```
+
+4. Configure environment variables:
+   - Create a `.env` file in the `server` directory with:
+     ```env
+     PORT=5000
+     MONGO_URI=your_mongodb_connection_string
+     JWT_SECRET=your_jwt_secret
+     ```
+
+5. Run the project:
+   - Start the backend:
+     ```sh
+     cd server
+     npm start
+     ```
+   - Start the frontend:
+     ```sh
+     cd client
+     npm run dev
+     ```
+
+6. Open the app in your browser at `http://localhost:5173`
+
+## Folder Structure
+
+```
+root/
+│-- client/ (Frontend - React Vite)
+│-- server/ (Backend - Express & MongoDB)
+│-- public/ (Static Assets)
+│-- README.md
+```
+
+## Contributing
+
+Contributions are welcome! Feel free to **fork** the repo, create a **pull request**, and improve the platform.
+
+## License
+
+This project is **open-source** and licensed under the MIT License.
+
+---
+
+### Screenshots
+
+![image_alt]('https://github.com/Deepakravuri/CrowdImapct/blob/main/Output_Images/Landing%20Page%201.png?raw=true')
+
